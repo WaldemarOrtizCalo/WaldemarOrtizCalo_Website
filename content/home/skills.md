@@ -17,20 +17,18 @@ subtitle = ""
 [[feature]]
   icon = "r-project"
   icon_pack = "fab"
-  name = "R"
-  description = "90%"
+  name = "R Programming"
   
 [[feature]]
-  icon = "chart-line"
+  icon = "chart-area"
   icon_pack = "fas"
-  name = "Statistics"
-  description = "100%"  
+  name = "Advanced Statistics and Quantitative Techniques"
   
 [[feature]]
-  icon = "camera-retro"
+  icon = "mountain"
   icon_pack = "fas"
-  name = "Photography"
-  description = "10%"
+  name = "Field-based project management"
+
 
 # Uncomment to use emoji icons.
 # [[feature]]
