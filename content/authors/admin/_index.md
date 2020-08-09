@@ -1,47 +1,42 @@
 ---
 authors:
 - admin
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests are on animal spatial ecology, human-widlife interactions, and applied research for wildlife conservation.
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: Masters of Science in Wildlife Biology
+    institution: University of Montana
+    year: (2020 - Current)
+  - course: Bachelor of Science in Fisheries and Wildlife
+    institution: Michigan State University
+    year: 2018
 email: ""
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Animal Spatial Ecology
+- Human-Widlife Interactions
+- Research-Based Conservation Decisions
 organizations:
-- name: Stanford University
+- name: University of Montana
   url: ""
-role: Professor of Artificial Intelligence
+role: M.S. Student in the Boone and Crockett Wildlife Conservation Program
 social:
-- icon: envelope
-  icon_pack: fas
-  link: '#contact'
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/WaldoOrtizCalo
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.com/citations?user=cEnjzGwAAAAJ&hl=en
+- icon: researchgate
+  icon_pack: ai
+  link: https://www.researchgate.net/profile/Waldemar_Ortiz-Calo
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/WaldemarOrtizCalo
 superuser: true
-title: Nelson Bighetti
+title: Waldemar Ortiz-Calo
 user_groups:
 - Researchers
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+INSERT BIO
