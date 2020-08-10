@@ -12,13 +12,15 @@ education:
     year: 2018
 email: ""
 interests:
-- Animal Spatial Ecology
-- Human-Widlife Interactions
+- Animal Resource Selection
+- Movement Ecology 
+- Predator-Prey Interaction
+- Human-Widlife Conflict
 - Research-Based Conservation Decisions
 organizations:
-- name: University of Montana
+- name: Boone and Crockett Wildlife Conservation Program, University of Montana
   url: ""
-role: M.S. Student, Boone and Crockett Wildlife Conservation Program
+role: MSc Student
 social:
 - icon: twitter
   icon_pack: fab
@@ -39,4 +41,4 @@ user_groups:
 - Visitors
 ---
 
-INSERT BIO
+My name is Waldemar Ortiz-Calo and I am from Carolina, Puerto Rico. My research interests lie within the intersection of theoretical and applied ecology. Currently, my graduate research is focused on understanding the movement ecology of deer within the an agro-urbanized landscape. Within this context, I am interested in evaluating the drivers for individual variation and the impacts that it may have on future management/conservation decisions.
