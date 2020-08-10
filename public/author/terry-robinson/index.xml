@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Terry Robinson | Waldemar Ortiz-Calo</title>
+    <link>/author/terry-robinson/</link>
+      <atom:link href="/author/terry-robinson/index.xml" rel="self" type="application/rss+xml" />
+    <description>Terry Robinson</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Mar 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Terry Robinson</title>
+      <link>/author/terry-robinson/</link>
+    </image>
+    
+    <item>
+      <title>The effect of camera-trap viewshed obstruction on wildlife detection: implications for inferenceserv</title>
+      <link>/publication/camtrap-visibility/</link>
+      <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/camtrap-visibility/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
