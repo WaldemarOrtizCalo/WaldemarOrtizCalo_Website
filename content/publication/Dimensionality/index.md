@@ -17,13 +17,13 @@ image:
   focal_point: ""
   preview_only: false
 projects: []
-publication: '*Ecological Modeling, TBD*(TBD)'
+publication: '*Ecological Modeling* (In press)'
 publication_short: ""
 publication_types:
 - "2"
-publishDate: "2020-10-01T00:00:00Z"
+publishDate: "2020-7-01T00:00:00Z"
 slides: 
-summary: We developed a quantitative technique that enabled us to quantify the severity and prelvalence of Giraffe Skin Disease in two distinct populations Tanzania.
+summary: We developed a quantitative technique that faciliates the measurement of Giraffe Skin Disease using camera trap images.
 tags:
 - Source Themes
 title: "Integrating the multi-domainal and multi-dimensional nature of animal movement into ecological modelling"
