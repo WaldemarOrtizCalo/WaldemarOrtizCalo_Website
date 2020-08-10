@@ -2,7 +2,6 @@
 title: "Maybe"
 authors:
 - admin
-- David Heit
 author_notes:
 - "Equal contribution"
 - "Equal contribution"
