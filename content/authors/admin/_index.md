@@ -1,7 +1,7 @@
 ---
 authors:
 - admin
-bio: My research interests are on animal spatial ecology, human-widlife interactions, and applied research for wildlife conservation.
+bio: My research interests are focused on animal spatial ecology, human-widlife interactions, and applied research that informs wildlife conservation.
 education:
   courses:
   - course: Masters of Science in Wildlife Biology
@@ -18,7 +18,7 @@ interests:
 organizations:
 - name: University of Montana
   url: ""
-role: M.S. Student in the Boone and Crockett Wildlife Conservation Program
+role: M.S. Student, Boone and Crockett Wildlife Conservation Program
 social:
 - icon: twitter
   icon_pack: fab
