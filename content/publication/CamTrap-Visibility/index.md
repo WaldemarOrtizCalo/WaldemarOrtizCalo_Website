@@ -29,7 +29,7 @@ slides:
 summary: We aimed to determine the effect of camera-trap viewshed obstruction on wildlife detection rates for a suite of eight North American species that vary in terms of ecology, commonness and body size.
 tags:
 - Source Themes
-title: "The effect of camera-trap viewshed obstruction on wildlife detection: implications for inferenceserv"
+title: "The effect of camera-trap viewshed obstruction on wildlife detection: implications for inferences"
 url_code: ""
 url_dataset: ""
 url_pdf: ""
