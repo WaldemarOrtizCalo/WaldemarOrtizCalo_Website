@@ -23,7 +23,7 @@ publication_types:
 - "2"
 publishDate: "2020-07-01T00:00:00Z"
 slides: 
-summary: We developed a quantitative technique that faciliates the measurement of Giraffe Skin Disease using camera trap images.
+summary: We discuss the dimensionality of animal movement and the potential implications it might have on current quantitative frameworks.
 tags:
 - Source Themes
 title: "Integrating the multi-domainal and multi-dimensional nature of animal movement into ecological modelling"
