@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Personal Projects | Waldemar Ortiz-Calo</title>
+    <link>/tag/personal-projects/</link>
+      <atom:link href="/tag/personal-projects/index.xml" rel="self" type="application/rss+xml" />
+    <description>Personal Projects</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Aug 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Personal Projects</title>
+      <link>/tag/personal-projects/</link>
+    </image>
+    
+    <item>
+      <title>Impacts of Spatial Dimensionality on Home Range Estimation</title>
+      <link>/project/impacts-of-spatial-dimensionality-on-home-range-estimation/</link>
+      <pubDate>Sat, 01 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>/project/impacts-of-spatial-dimensionality-on-home-range-estimation/</guid>
+      <description>&lt;p&gt;Description TBD&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Individuality of White-Tailed Deer Home Range Estimation</title>
+      <link>/project/deer-home-range-estimation/</link>
+      <pubDate>Sat, 01 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>/project/deer-home-range-estimation/</guid>
+      <description>&lt;p&gt;Description TBD&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Individuality of White-Tailed Deer Resource Selection</title>
+      <link>/project/deer-resource-selection/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/project/deer-resource-selection/</guid>
+      <description>&lt;p&gt;Description TBD&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
