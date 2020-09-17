@@ -14,7 +14,7 @@ email: ""
 interests:
 - Animal Resource Selection
 - Movement Ecology 
-- Predator-Prey Interaction
+- Predator-Prey Interactions
 - Human-Widlife Conflict
 - Research-Based Conservation Decisions
 organizations:
