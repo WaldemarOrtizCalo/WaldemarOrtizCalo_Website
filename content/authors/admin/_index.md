@@ -40,4 +40,4 @@ user_groups:
 - Visitors
 ---
 
-My name is Waldemar Ortiz-Calo and I am from Carolina, Puerto Rico. My research interests lie within the intersection of theoretical and applied ecology. Currently, my graduate research is focused on understanding the individuality of white-tailed deer moevement ecology across different spatio-temporal scales in Western Missouri. Specifically, I am interested in how individual variation impacts the inferences we derive from our analyses.
+My name is Waldemar Ortiz-Calo and I am from Carolina, Puerto Rico. My research interests lie within the intersection of theoretical and applied ecology. Currently, my graduate research is focused on exploring the impacts of inter-individual variation in White-tailed deer spatial ecology. My work will evaluate these impacts across multiple spatio-temporal scales.
