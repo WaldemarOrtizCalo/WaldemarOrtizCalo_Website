@@ -16,7 +16,6 @@ interests:
 - Movement Ecology 
 - Predator-Prey Interactions
 - Human-Widlife Conflict
-- Research-Based Conservation Decisions
 organizations:
 - name: Boone and Crockett Wildlife Conservation Program, University of Montana
   url: ""
