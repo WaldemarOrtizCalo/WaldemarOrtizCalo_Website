@@ -12,7 +12,7 @@ date: "2021-06-09T00:00:00Z"
 doi: "https://doi.org/10.1002/ecy.3427"
 featured: true
 image:
-  caption: 'Image credit: Harry Collins Photography'
+  caption:
   focal_point: ""
   preview_only: false
 projects: []
