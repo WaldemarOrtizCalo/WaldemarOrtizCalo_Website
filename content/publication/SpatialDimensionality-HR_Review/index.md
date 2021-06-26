@@ -28,7 +28,7 @@ tags:
 title: Landscape complexity persists as a critical source of bias in terrestrial animal home range estimation
 url_code: ""
 url_dataset: ""
-url_pdf: https://esajournals.onlinelibrary.wiley.com/doi/abs/10.1002/ecy.3427
+url_pdf: ""
 url_poster: ""
 url_project: ""
 url_slides: ""
