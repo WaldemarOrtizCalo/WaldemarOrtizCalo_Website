@@ -20,6 +20,11 @@ subtitle = ""
   name = "R Programming"
   
 [[feature]]
+  icon = "Python"
+  icon_pack = "fab"
+  name = "Python Programming"
+  
+[[feature]]
   icon = "chart-area"
   icon_pack = "fas"
   name = "Advanced Statistics and Quantitative Techniques"
@@ -27,8 +32,7 @@ subtitle = ""
 [[feature]]
   icon = "mountain"
   icon_pack = "fas"
-  name = "Field-based project management"
-
+  name = "Project Management"
 
 # Uncomment to use emoji icons.
 # [[feature]]
