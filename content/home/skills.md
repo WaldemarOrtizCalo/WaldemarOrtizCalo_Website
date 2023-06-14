@@ -20,9 +20,10 @@ subtitle = ""
   name = "R Programming"
   
 [[feature]]
-  icon = "Python"
-  icon_pack = "fab"
-  name = "Python Programming"
+  icon = "code-solid"
+  icon_pack = "custom"
+  name = "Programming"
+  description = "R/Python"
   
 [[feature]]
   icon = "chart-area"
