@@ -27,7 +27,7 @@ date_format = "Jan 2006"
   date_end = ""
   
 [[experience]]
-  title = "Research Assisntant"
+  title = "Research Assistant"
   company = "Boone and Crockett Wildlife Conservation Program"
   company_url = ""
   location = "Missoula, Montana"
