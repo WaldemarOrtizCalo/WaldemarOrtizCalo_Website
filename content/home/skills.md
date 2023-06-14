@@ -15,15 +15,10 @@ subtitle = ""
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 
 [[feature]]
-  icon = "r-project"
-  icon_pack = "fab"
-  name = "R Programming"
-  
-[[feature]]
   icon = "code-solid"
   icon_pack = "custom"
-  name = "Programming"
-  description = "R/Python"
+  name = "Coding Languages"
+  description = "R/Python/SQL/GitHub"
   
 [[feature]]
   icon = "chart-area"
