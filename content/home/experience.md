@@ -19,7 +19,23 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[experience]]
-  title = "Post B.S. Research Associate"
+  title = "Geospatial Analyst"
+  company = "Center for Population and Human Research"
+  company_url = ""
+  location = "Missoula, Montana"
+  date_start = "2022-05-15"
+  date_end = ""
+  
+[[experience]]
+  title = "Research Assisntant"
+  company = "Boone and Crockett Wildlife Conservation Program"
+  company_url = ""
+  location = "Missoula, Montana"
+  date_start = "2020-07-15"
+  date_end = ""
+
+[[experience]]
+  title = "Research Associate"
   company = "RECaP Lab : Michigan State University"
   company_url = ""
   location = "East Lansing, Michigan"
@@ -27,7 +43,7 @@ date_format = "Jan 2006"
   date_end = "2020-08-20"
 
 [[experience]]
-  title = "Spatial Data Analyst"
+  title = "Geospatial Analyst"
   company = "University of Missouri"
   company_url = ""
   location = "Columbia, Missouri"
