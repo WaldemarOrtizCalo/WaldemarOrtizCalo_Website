@@ -12,10 +12,10 @@ education:
     year: 2018
 email: ""
 interests:
-- Animal Resource Selection
-- Movement Ecology 
-- Predator-Prey Interactions
-- Human-Widlife Conflict
+- Geospatial Analyses
+- Predictive Modeling
+- Bayesian Frameworks
+- Machine Learning Applications
 organizations:
 - name: Boone and Crockett Wildlife Conservation Program, University of Montana
   url: ""
@@ -33,6 +33,9 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/WaldemarOrtizCalo
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/waldemarortiz/
 superuser: true
 title: Waldemar Ortiz-Calo
 user_groups:
@@ -40,4 +43,10 @@ user_groups:
 - Visitors
 ---
 
-My name is Waldemar Ortiz-Calo and I am from Carolina, Puerto Rico. My research interests lie within the intersection of theoretical and applied ecology. Currently, my graduate research is focused on exploring the impacts of inter-individual variation in White-tailed deer spatial ecology. My work will evaluate these impacts across multiple spatio-temporal scales and evaluate the role of resource availability on the expression of inter-individual variation.
+I am a passionate and highly skilled Data Scientist and Geospatial Analyst with a strong background in extracting valuable insights from complex datasets. With a focus on leveraging large datasets to drive informed decision-making, I have consistently delivered impactful solutions to a wide range of industries and organizations.
+
+My expertise lies in applying advanced analytics techniques, enabling the extraction of actionable intelligence, and generating meaningful visualizations. I am well-versed in utilizing state-of-the-art tools and technologies, such as Python, R, SQL, and GIS software, to process and analyze large-scale datasets efficiently.
+
+Throughout my career, I have successfully tackled diverse challenges, including spatial data modeling, predictive modeling, Bayesian analysis, and spatial optimization. By employing statistical analysis and data visualization techniques, I have developed robust models that have helped clients make data-driven decisions and optimize their operations.
+
+Let's connect and explore ways to create impactful data-driven solutions together.
